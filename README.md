@@ -12,6 +12,6 @@ Shell: bash
 Job: Cybersecurity Engineer
 Location: San Diego, CA
 Hobbies: Valorant, Photography, Drones
-Special Interests: Automation, Privacy, Security, Discord Bots, Databases, API's
+Special Interests: Automation, Privacy, Security, Discord Bots, Databases
 Learning: Ansible, Python, TypeScript
 ```
