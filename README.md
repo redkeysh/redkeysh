@@ -9,8 +9,8 @@ redkeysh@github
 -------------------------
 OS: RedHat Enterprise Linux 9.5 x86_64
 Shell: bash
-Job: Cybersecurity Engineer
-Location: San Diego, CA
+Job: Loading...
+Location: Relocating...
 Hobbies: Valorant, Photography, Drones
 Special Interests: Automation, Privacy, Security, Discord Bots, Databases
 Learning: Ansible, Python, TypeScript
