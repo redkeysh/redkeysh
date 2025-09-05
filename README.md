@@ -9,9 +9,9 @@ redkeysh@github
 -------------------------
 OS: RedHat Enterprise Linux 9.5 x86_64
 Shell: bash
-Job: Loading...
-Location: Relocating...
-Hobbies: Valorant, Photography, Drones
+Job: Barista!
+Location: Washington State, USA
+Hobbies: Gaming, Photography, Drones, Rock Climbing
 Special Interests: Automation, Privacy, Security, Discord Bots, Databases
 Learning: Ansible, Python, TypeScript
 ```
